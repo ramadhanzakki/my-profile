@@ -18,11 +18,11 @@ function App() {
         {isDark ? <SunIcon /> : <MoonIcon />}
       </button>
       <ProfileCard
-        name="Nama Kamu"
-        bio="Mahasiswa Ilmu Komputer yang suka membangun sesuatu. Sedang mendalami React, TypeScript, dan DevOps."
-        skills={['React', 'TypeScript', 'Node.js', 'Git']}
+        name="RHOUMADHONI"
+        bio="Mahasiswa Ilmu Komputer yang suka membangun sesuatu. Sedang mendalami Laravel, React, dan Python."
+        skills={['Laravel', 'React', 'PHP', 'Git']}
         avatarUrl="https://api.dicebear.com/7.x/avataaars/svg?seed=student"
-        githubUrl="https://github.com/USERNAME_KAMU"
+        githubUrl="https://github.com/ramadhanzakki"
       />
     </div>
   )
